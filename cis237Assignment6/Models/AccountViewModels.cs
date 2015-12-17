@@ -109,4 +109,6 @@ namespace cis237Assignment6.Models
         [Display(Name = "Email")]
         public string Email { get; set; }
     }
+
+    
 }

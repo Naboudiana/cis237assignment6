@@ -2,7 +2,7 @@
 
 ## Due 12-17-2015
 
-## Author
+## Seynabou
 
 ## Description
 
@@ -84,6 +84,8 @@ You can get up to 20 assignment points of extra credit by doing the following:
 * Ability to click on a table header and sort the list of items by that column.
 * Write at least 2 unit tests to verify your code.
 
+I did the first,second, fourth, and only one unit test to verify code.
+
 ### Notes
 
 There are a few Youtube videos I found that should help you out with MVC.
@@ -98,5 +100,8 @@ This one is okay, and it is from Microsoft:
 ## Outside Resources Used
 
 ## Known Problems, Issues, And/Or Errors in the Program
+When  filtering active I could not find a way to filter when choice is either( ie both active and not active)
+Also, when sorting name and price, you either need to refresh after each one or 
+click on it again after sorting for one is done.
 
 

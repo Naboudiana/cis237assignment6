@@ -35,7 +35,7 @@ namespace cis237Assignment6.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
-            Assert.AreEqual("Your application description page.", result.ViewBag.Message);
+            Assert.AreEqual("Beverage App description page.", result.ViewBag.Message);
         }
 
         [TestMethod]
